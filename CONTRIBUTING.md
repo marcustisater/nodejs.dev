@@ -61,11 +61,11 @@ We recommend you to let others know what you are working on through the [issue t
 
 * [Fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) the project and add remotes.
 
-      ```sh
+    ```sh
       git clone git clone git@github.com:<githubid>/nodejs.dev.git
       cd nodejs.dev
       git remote add upstream git@github.com:nodejs/nodejs.dev.git
-      ```
+    ```
 
 * Create a new branch for your awesome work. 
 
