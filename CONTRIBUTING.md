@@ -56,6 +56,9 @@ In the case of an objection being raised in a pull request by another collaborat
 
 ## Getting Started
 
+We recommend you to let others know what you are working on through the [issue tracker][]. Create a new issue if you would like to make other changes otherwise you risk spending time working on something that might not get approved. 
+
+
 * [Fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) the project and add remotes.
 
       ```sh
@@ -74,8 +77,6 @@ In the case of an objection being raised in a pull request by another collaborat
 
 * Commit your changes. Make sure to follow the [commit guidelines][].
 * Make a pull request and wait for feedback or approval from a collaborator.
-
-We recommend you to let others know what you are working on through the [issue tracker][]. Create a new issue if you would like to make other changes otherwise you risk spending time working on something that might not get approved. 
 
 ## Developer's Certificate of Origin 1.1
 
@@ -97,5 +98,5 @@ By making a contribution to this project, I certify that:
 
 [conventional commits]: https://www.conventionalcommits.org/
 [`squash`]: https://help.github.com/en/articles/about-pull-request-merges#squash-and-merge-your-pull-request-commits
-[issuetracker]: https://github.com/nodejs/nodejs.dev/issues
+[issue tracker]: https://github.com/nodejs/nodejs.dev/issues
 [commit guidelines]: #commit-guidelines
