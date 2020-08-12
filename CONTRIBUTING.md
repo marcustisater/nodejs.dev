@@ -56,25 +56,24 @@ In the case of an objection being raised in a pull request by another collaborat
 
 ## Getting Started
 
-1. [Fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) the project and add remotes.
+* [Fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) the project and add remotes.
 
-   ```sh
-   git clone git clone git@github.com:<githubid>/nodejs.dev.git
-   cd nodejs.dev
-   git remote add upstream git@github.com:nodejs/nodejs.dev.git
-   ```
+      ```sh
+      git clone git clone git@github.com:<githubid>/nodejs.dev.git
+      cd nodejs.dev
+      git remote add upstream git@github.com:nodejs/nodejs.dev.git
+      ```
 
-2. Create a new branch for your awesome work. 
+* Create a new branch for your awesome work. 
 
-  ```sh
-    git checkout -b branchname
-    # make sure to pull the latest changes from upstream
-    git pull upstream master
-  ```
+    ```sh
+      git checkout -b branchname
+      # make sure to pull the latest changes from upstream
+      git pull upstream master
+    ```
 
-3. Commit your changes. Make sure to follow the [commit guidelines][].
-
-4. Make a pull request and wait for feedback or approval from a collaborator.
+* Commit your changes. Make sure to follow the [commit guidelines][].
+* Make a pull request and wait for feedback or approval from a collaborator.
 
 We recommend you to let others know what you are working on through the [issue tracker][]. Create a new issue if you would like to make other changes otherwise you risk spending time working on something that might not get approved. 
 
